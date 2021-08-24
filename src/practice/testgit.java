@@ -7,6 +7,7 @@ public class testgit {
 		System.out.println("updated");
 		// TODO Auto-generated method stub
 		System.out.println("git branch checking");
+		System.out.println("git branch checking");
 
 	}
 
